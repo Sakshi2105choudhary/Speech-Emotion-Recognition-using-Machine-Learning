@@ -193,10 +193,10 @@ Visualizations
 The project includes:
 
 Audio Waveform Visualization
-![alt text](waveform.png)
+![alt text](sample_results/waveform.png)
 
 MFCC Feature Heatmap
-![alt text](MFCC.png)
+![alt text](sample_results/MFCC.png)
 
 Repository Structure
 
